@@ -1,16 +1,25 @@
-## Hi there 👋
+# Readme.me👋
 
-<!--
-**cmaycon811-stack/cmaycon811-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ola!
+**Meu nome e Maycon de Carvalho Ferreira.
 
-Here are some ideas to get you started:
+- Sobre mim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de ADS
+ 
+- Aprendendo
+-  HTML
+-  CSS
+-  C#
+-  UX
+-  SITE
+ 
+- Interesse em progamar e desenvolver site e jogos 
+
+- Como entrar em contato comigo:
+ 
+- Email:cmaycon811@gmail.com
+ 
+- Fone:(11)94661-5127
+ 
+- GitHub:cmaycon811-stack
